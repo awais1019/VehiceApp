@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "553112771196",
+    "project_id": "vehicleapp-8be8d",
+    "storage_bucket": "vehicleapp-8be8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553112771196:android:5cacfb685a8da12aea07f9",
+        "android_client_info": {
+          "package_name": "com.example.curdrealtimeadmin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Ux4VyE9D-wRc45FTrhhmkNtX9fItkr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553112771196:android:5e97a18e97356102ea07f9",
+        "android_client_info": {
+          "package_name": "com.example.vehicleapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1Ux4VyE9D-wRc45FTrhhmkNtX9fItkr4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

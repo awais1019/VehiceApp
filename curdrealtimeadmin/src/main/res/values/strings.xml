@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Curd RealTime Admin</string>
+    <string name="vehicle_information">Vehicle\nInformation</string>
+    <string name="upload">upload</string>
+    <string name="upload_information">Upload\ninformation</string>
+    <string name="enter_owner_name">Enter Owner Name</string>
+    <string name="enter_vehicle_number">Enter Vehicle Number</string>
+    <string name="save">Save</string>
+    <string name="enter_vehicle_brand">Enter Vehicle Brand</string>
+    <string name="enter_vehicle_rto">Enter Vehicle RTO</string>
+</resources>
