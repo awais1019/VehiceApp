@@ -1,5 +1,11 @@
 <resources>
     <string name="app_name">VehicleApp</string>
     <string name="search">Search</string>
+    <string name="car_info">Car info</string>
+    <string name="vehicle_rto">Vehicle Rto</string>
+    <string name="owner_name">Owner Name</string>
+    <string name="vehicle_brand">Vehicle brand</string>
+    <string name="vehicle_number">Vehicle Number</string>
+    <string name="search_btn_text">Search</string>
 
 </resources>
