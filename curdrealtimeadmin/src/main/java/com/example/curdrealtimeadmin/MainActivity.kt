@@ -12,12 +12,26 @@ class MainActivity : AppCompatActivity() {
     private lateinit var binding: ActivityMainBinding
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-       binding=ActivityMainBinding.inflate(layoutInflater)
+        binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
-        binding.btnUpload.setOnClickListener{
-            startActivity(Intent(this@MainActivity,UploadActivity::class.java))
-            finish()
+        binding.btnUpload.setOnClickListener {
+            changeActivity(UploadActivity())
+
+        }
+        binding.btnUpdate.setOnClickListener()
+        {
+
+            changeActivity(UpdateActivity())
+        }
+        binding.btnDelete.setOnClickListener()
+        {
+            changeActivity(DeleteActivity())
         }
 
+    }
+
+    private fun changeActivity(activity: AppCompatActivity) {
+        startActivity(Intent(this@MainActivity, activity::class.java))
+        finish()
     }
 }

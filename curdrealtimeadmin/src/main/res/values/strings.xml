@@ -8,4 +8,8 @@
     <string name="save">Save</string>
     <string name="enter_vehicle_brand">Enter Vehicle Brand</string>
     <string name="enter_vehicle_rto">Enter Vehicle RTO</string>
+    <string name="delete">delete</string>
+    <string name="update_infromation">Update \ninfromation</string>
+    <string name="update">update</string>
+    <string name="delete_information">Delete \n information</string>
 </resources>
